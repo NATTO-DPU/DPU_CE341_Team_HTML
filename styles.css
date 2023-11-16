@@ -49,10 +49,10 @@ input {
 }
 #Back {
     display: block;
-    margin: 20px auto; /* เปลี่ยน margin เป็น 20px auto เพื่อให้ปุ่มอยู่ตรงกลาง */
+    margin: 20px auto;
     padding: 10px;
     font-size: 1em;
-    background-color: #3498db;
+    background-color: #000000;
     color: #fff;
     text-align: center;
     border: none;
