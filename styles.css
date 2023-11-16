@@ -15,6 +15,7 @@ body {
     padding: 20px;
     box-sizing: border-box;
     background-color: #fff;
+    text-align: center;
 }
 
 h1 {
@@ -37,29 +38,35 @@ img {
     margin-bottom: 20px;
 }
 
-input {
+input, #Back {
     display: block;
     margin: 0 auto;
     padding: 10px;
     font-size: 1em;
+    cursor: pointer;
+}
+
+input {
     background-color: #3498db;
     color: #fff;
     border: none;
-    cursor: pointer;
 }
+
 #Back {
-    display: block;
-    margin: 20px auto;
-    padding: 10px;
-    font-size: 1em;
     background-color: #000000;
     color: #fff;
-    text-align: center;
     border: none;
-    cursor: pointer;
-    align-items: center;
 }
 
 #Back:hover {
     background-color: #333333;
+}
+#career-paths {
+    list-style: none;
+    padding: 0;
+}
+
+#career-paths li {
+    text-align: left;
+    margin-bottom: 10px;
 }
