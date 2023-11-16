@@ -11,3 +11,6 @@ USER : Rtnpb
 ![image](https://github.com/NATTO-DPU/DPU_CE341_Team_HTML/assets/149044545/b1d11848-8dd8-440b-85a7-7355662d74c9)
 USER : Pariwatt
 ทำหน้าที่ส่วยของ learn.ce
+![image](https://github.com/NATTO-DPU/DPU_CE341_Team_HTML/assets/143696679/4a462f7f-aab6-4225-a9ec-7fdfcef100d4)
+USER : Phonchai 
+ทำหน้าที่ส่วยของ test.html
