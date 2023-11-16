@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 222, 222);
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+h1 {
+    color: #3498db;
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #333;
+    font-size: 1.2em;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 1em;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+#Back {
+    display: block;
+    margin: 20px auto; /* เปลี่ยน margin เป็น 20px auto เพื่อให้ปุ่มอยู่ตรงกลาง */
+    padding: 10px;
+    font-size: 1em;
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+}
