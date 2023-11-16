@@ -3,22 +3,20 @@ body {
     background-image:url('https://th.bing.com/th/id/R.39cbebfa1489c67df0058f3e99aa4aa4?rik=CTe4Si1%2frdydXA&pid=ImgRaw&r=0');
     font-size: 200%;
     background-size: cover;
-    padding: 150px;
-    margin: 150px;
     
 }
 .container{
-    width: 500px;
-    height: 300px;
-    margin: 200px ;
+    width: 700px;
+    height: 500px;
     background-color: black;
-    position: relative;
-    padding: 200px;
-    margin: 200px;
+    /* position: relative; */
+    
+    margin-top: 350px;
+    margin-left: 650px;
 }
-
 h1 {
-    height: 20px;
+    /* height: 20px; */
+    padding-top: 70px;
     color: gold;
     text-align: center;
     font-size: 200%;
@@ -35,4 +33,9 @@ h2{
     font-size: 200%;
     width: 200px;
     height: 20px;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    margin-left: 600px;
 }
